@@ -1,0 +1,7 @@
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll.config
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\ThirdPartyTools\obj\Debug\ThirdPartyTools.csproj.AssemblyReference.cache
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\ThirdPartyTools\obj\Debug\ThirdPartyTools.csproj.CoreCompileInputs.cache
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb

@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\TestFileData\\TestFileData.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\FileData\\FileData.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\FileData\\FileData.csproj",
+        "projectName": "FileData",
+        "projectPath": "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\FileData\\FileData.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\ThirdPartyTools\\ThirdPartyTools.csproj": {
+                "projectPath": "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\ThirdPartyTools\\ThirdPartyTools.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\TestFileData\\TestFileData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\TestFileData\\TestFileData.csproj",
+        "projectName": "TestFileData",
+        "projectPath": "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\TestFileData\\TestFileData.csproj",
+        "packagesPath": "C:\\Users\\INSPIRE\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\TestFileData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\INSPIRE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\FileData\\FileData.csproj": {
+                "projectPath": "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\FileData\\FileData.csproj"
+              },
+              "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\ThirdPartyTools\\ThirdPartyTools.csproj": {
+                "projectPath": "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\ThirdPartyTools\\ThirdPartyTools.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "AutoFixture.AutoMoq": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "AutoFixture.Xunit2": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\ThirdPartyTools\\ThirdPartyTools.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\ThirdPartyTools\\ThirdPartyTools.csproj",
+        "projectName": "ThirdPartyTools",
+        "projectPath": "C:\\Users\\INSPIRE\\Downloads\\DeveloperInterviewExercise-main (1)\\DeveloperInterviewExercise-main\\ThirdPartyTools\\ThirdPartyTools.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\FileData\bin\Debug\FileData.exe.config
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\FileData\bin\Debug\FileData.exe
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\FileData\bin\Debug\FileData.pdb
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\FileData\bin\Debug\ThirdPartyTools.dll
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\FileData\bin\Debug\ThirdPartyTools.pdb
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\FileData\bin\Debug\ThirdPartyTools.dll.config
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.csproj.AssemblyReference.cache
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.csproj.CoreCompileInputs.cache
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.csproj.CopyComplete
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.exe
+C:\Users\INSPIRE\Downloads\DeveloperInterviewExercise-main (1)\DeveloperInterviewExercise-main\FileData\obj\Debug\FileData.pdb
